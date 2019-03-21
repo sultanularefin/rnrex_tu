@@ -11,7 +11,8 @@
     "react-native": "0.58.4",
     "react-native-snackbar": "0.5.5",
     "@babel/runtime": "7.2.0",
-    "prop-types": "^15.6.2"
+    "prop-types": "^15.6.2",
+    "react-native-share": "git+https://github.com/react-native-community/react-native-share.git"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",

@@ -5,7 +5,7 @@ import Snackbar from 'react-native-snackbar';
 import styles from '../styles';
 
 // eslint-disable-next-line react/prefer-stateless-function
-class Example extends Component {
+class AppRNShare extends Component {
 
   render() {
     return (
@@ -80,4 +80,4 @@ class Example extends Component {
 
 }
 
-export default Example;
+export default AppRNShare;

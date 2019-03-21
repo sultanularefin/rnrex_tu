@@ -1,5 +1,9 @@
 import { AppRegistry } from 'react-native';
 
-import App from './src/App';
+// import AppRNSnackbar from './src/AppRNSnackbar';
 
-AppRegistry.registerComponent('DriverApplication', () => App);
+import AppRNShare from './src/AppRNShare';
+
+// AppRegistry.registerComponent('DriverApplication', () => AppRNSnackbar);
+
+AppRegistry.registerComponent('DriverApplication', () => AppRNShare);
