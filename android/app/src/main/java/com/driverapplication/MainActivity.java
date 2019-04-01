@@ -1,4 +1,4 @@
-package com.driverapplication;
+package com.rnrex_tu;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "DriverApplication";
+        return "rnrex_tu";
     }
 }

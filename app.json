@@ -1,4 +1,7 @@
 {
-  "name": "DriverApplication",
-  "displayName": "DriverApplication"
+  "name": "rnrex_tu",
+  "displayName": "rnrex_tu",
+  "slug": "my-app",
+  "sdkVersion": "UNVERSIONED",
+  "privacy": "public"
 }

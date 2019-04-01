@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.driverapplication",
+    package = "com.rnrex_tu",
 )
 
 android_resource(
     name = "res",
-    package = "com.driverapplication",
+    package = "com.rnrex_tu",
     res = "src/main/res",
 )
 

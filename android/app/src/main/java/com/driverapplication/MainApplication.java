@@ -1,4 +1,4 @@
-package com.driverapplication;
+package com.rnrex_tu;
 
 import android.app.Application;
 

@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import { Text, View, TouchableOpacity } from 'react-native';
 import Snackbar from 'react-native-snackbar';
 
-import styles from '../styles';
+import styles from '../../styles';
 
 // eslint-disable-next-line react/prefer-stateless-function
-class AppRNShare extends Component {
+class AppRNSnackbar extends Component {
 
   render() {
     return (
@@ -80,4 +80,4 @@ class AppRNShare extends Component {
 
 }
 
-export default AppRNShare;
+export default AppRNSnackbar;
